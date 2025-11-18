@@ -1,6 +1,6 @@
-# 1000devs - AI/ML Class 01
+# 1000devs - AI/ML Aula 01
 
-**Iniciativa 1000devs Aula 1 - Conceitos base**
+**Iniciativa 1000devs Aula 01 - Conceitos base**
 
 Este repositório contém exemplos práticos de tarefas de classificação e regressão utilizando bibliotecas populares de aprendizado de máquina em Python. Os notebooks fornecem uma introdução passo a passo para entender os conceitos fundamentais, preparar os dados, treinar modelos e avaliar seu desempenho.
 
