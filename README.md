@@ -10,10 +10,6 @@ Este repositório contém exemplos práticos de tarefas de classificação e reg
 
 - `ModelosClassificacao.ipynb`: Notebook que explora diferentes algoritmos de classificação, como Regressão Logística, SVM e Árvores de Decisão.
 
-<!-- - `PrepararDadosRegressao.ipynb`: Notebook que aborda a preparação de dados para tarefas de regressão, com foco em técnicas específicas para esse tipo de problema.
-
-- `ModelosRegressao.ipynb`: Notebook que apresenta modelos de regressão, incluindo Regressão Linear, Ridge, Lasso e Árvores de Regressão. -->
-
 ## Requisitos
 
 - Python 3.x
