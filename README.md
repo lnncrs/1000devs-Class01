@@ -2,6 +2,8 @@
 
 **Iniciativa 1000devs Aula 01 - Conceitos base**
 
+> Este repositório é parte da iniciativa 1000devs, uma colaboração anual da Johnson & Johnson e do Hospital Israelita Albert Einstein para formar 1000 desenvolvedores no Brasil. Tive a oportunidade de apresentar os fundamentos, conceitos, campo e as ferramentas da Inteligência Artificial para os alunos.
+
 Este repositório contém exemplos práticos de tarefas de **classificação e regressão** utilizando bibliotecas populares de aprendizado de máquina em Python. Os notebooks fornecem uma introdução **passo a passo** para entender os **conceitos fundamentais**, **preparar os dados**, **treinar modelos** e **avaliar seu desempenho**.
 
 ## Conteúdo
