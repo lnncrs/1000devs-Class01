@@ -660,3 +660,4 @@ FodyWeavers.xsd
 
 data/
 outputs/
+*.pptx
